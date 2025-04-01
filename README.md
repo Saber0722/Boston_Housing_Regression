@@ -64,6 +64,10 @@ These features provide valuable insights into the characteristics of neighborhoo
   - R² Score: 0.83
   - Improved performance by capturing non-linear relationships, but still room for optimization.
 
+- **Random Forest Regressor**:
+  - R² Score: 0.88
+  - Improved performance by capturing non-linear relationships.
+
 ## Setup Instructions
 To run this project locally:
 
