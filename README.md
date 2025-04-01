@@ -74,4 +74,3 @@ To run this project locally:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/Saber0722/Boston_Housing_Regression.git
-   cd Boston_Housing_Regression
